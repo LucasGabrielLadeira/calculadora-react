@@ -15,7 +15,7 @@ Este é um projeto de uma calculadora simples desenvolvida em **React**. A calcu
 
 Clone o repositório:
 ```sh
-git clone https://github.com/seu-usuario/calculadora-react.git
+git clone https://github.com/LucasGabrielLadeira/calculadora-react.git
 cd calculadora-react
 ```
 
